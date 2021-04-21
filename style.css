@@ -38,7 +38,7 @@ figure {
 #details {
   display: flex;
   flex-direction: row;
-  float: left;
+  justify-content: space-between;
 }
 
 #details div{
