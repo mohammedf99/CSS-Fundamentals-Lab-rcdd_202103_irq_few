@@ -35,6 +35,9 @@ figure {
   align-self: center;
 }
 
+#details {
+  display: inline;
+}
 
 
 
