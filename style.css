@@ -36,7 +36,7 @@ figure {
 }
 
 #details {
-  display: flex;
+  display: block;
   flex-direction: row;
 }
 
