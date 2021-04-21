@@ -24,6 +24,5 @@ nav a {
 }
 
 figure figcaption {
-  align-items: center;
-  justify-content: center;
+  align-self: center;
 }
