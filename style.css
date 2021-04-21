@@ -23,7 +23,7 @@ nav a {
   background-color: grey;
 }
 
-figure figcaption {
+figure {
   display: flex;
   align-items: center;
 }
