@@ -38,6 +38,9 @@ figure {
 #details {
   display: flex;
   flex-direction: row;
+}
+
+#details div{
   float: left;
 }
 
