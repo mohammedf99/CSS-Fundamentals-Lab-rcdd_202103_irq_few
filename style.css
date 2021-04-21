@@ -29,3 +29,14 @@ figure {
   justify-content: center;
   flex-direction: column;
 }
+
+#featured-property p{
+  width: 800px;
+  align-self: center;
+}
+
+
+
+
+
+
